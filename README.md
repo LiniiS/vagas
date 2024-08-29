@@ -1,6 +1,6 @@
 # +Vagas - Ofertas de Estágio
 
-![+Vagas](https://ibb.co/31MMbSJ)
+![+Vagas](https://i.ibb.co/G7ttDCh/home-jpg.png)
 
 ## Descrição
 
