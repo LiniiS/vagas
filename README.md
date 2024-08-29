@@ -1,6 +1,6 @@
 # +Vagas - Ofertas de Estágio
 
-![+Vagas](https://via.placeholder.com/800x200.png?text=+Vagas)
+![+Vagas](https://ibb.co/31MMbSJ)
 
 ## Descrição
 
@@ -32,7 +32,7 @@ O projeto **+Vagas** é uma aplicação web para divulgação de vagas de estág
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd +vagas
+    cd vagas
     ```
 
 3. Abra o arquivo `index.html` em seu navegador:
