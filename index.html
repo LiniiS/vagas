@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>+Vagas - Ofertas de Estágio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <h1>+Vagas</h1>
+            </div>
+        </header>
+
+        <main>
+            <section class="offers-section">
+                <h2>Ofertas de Estágio</h2>
+                <div class="offers-grid" id="offers-grid">
+                    <!-- Cards serão inseridos aqui dinamicamente -->
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 +Vagas. Todos os direitos reservados.</p>
+        </footer>
+    </div>
+
+    <!-- Modal (apenas um modal reutilizável) -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" onclick="closeModal()">&times;</span>
+            <h3 id="modal-title"></h3>
+            <p><strong>Bolsa:</strong> <span id="modal-bolsa"></span></p>
+            <p><strong>Horário:</strong> <span id="modal-horario"></span></p>
+            <p><strong>Local:</strong> <span id="modal-local"></span></p>
+            <p><strong>Curso:</strong> <span id="modal-curso"></span></p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

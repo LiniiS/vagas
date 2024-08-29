@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Estágio em Desenvolvimento Web",
+        "description": "Trabalhe em projetos inovadores e aprenda com uma equipe experiente.",
+        "image": "assets/img/dev-web.jpg",
+        "bolsa": "R$ 1.200,00",
+        "horario": "6 horas diárias",
+        "local": "São Paulo, SP",
+        "curso": "Ciência da Computação, Sistemas de Informação"
+    },
+    {
+        "id": "2",
+        "title": "Estágio em Marketing Digital",
+        "description": "Participe de campanhas digitais e desenvolva suas habilidades de marketing.",
+        "image": "assets/img/marketing.jpg",
+        "bolsa": "R$ 1.000,00",
+        "horario": "4 horas diárias",
+        "local": "Rio de Janeiro, RJ",
+        "curso": "Marketing, Publicidade"
+    },
+    {
+        "id": "3",
+        "title": "Estágio em Design Gráfico",
+        "description": "Contribua com sua criatividade em projetos de design inovadores.",
+        "image": "assets/img/design.jpg",
+        "bolsa": "R$ 1.100,00",
+        "horario": "5 horas diárias",
+        "local": "Belo Horizonte, MG",
+        "curso": "Design, Artes Visuais"
+    },
+    {
+        "id": "4",
+        "title": "Estágio em Análise de Dados",
+        "description": "Desenvolva suas habilidades analíticas em projetos desafiadores.",
+        "image": "assets/img/analise-dados.jpg",
+        "bolsa": "R$ 1.300,00",
+        "horario": "6 horas diárias",
+        "local": "Curitiba, PR",
+        "curso": "Estatística, Engenharia de Produção"
+    }
+]
