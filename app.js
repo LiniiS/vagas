@@ -61,6 +61,14 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 
+    // Funcionalidade do menu hambúrguer
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('nav-links');
+
+    hamburger.addEventListener('click', () => {
+        navLinks.classList.toggle('show'); // Exibe ou esconde o menu
+    });
+
 });
 
 // Função para abrir o modal com detalhes da vaga
